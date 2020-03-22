@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item1">Añadir página</string>
+    <string name="item2">Autor</string>
+    <string name="confirmar">¿Seguro que quieres borrar esta tarea?</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="borrar">borrar</string>
+</resources>

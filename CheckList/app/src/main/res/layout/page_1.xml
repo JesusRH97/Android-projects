@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/editbox"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/listPreferredItemHeight">
+
+        <EditText
+            android:id="@+id/caja"
+            android:layout_width="300dp"
+            android:textSize="30dp"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/añadir"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="0dp"
+            android:layout_toRightOf="@id/caja"
+            android:background="#00BCD4"
+            android:text="+"
+            android:textSize="30dp" />
+
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/page1"
+        android:layout_width="match_parent"
+        android:layout_height="490dp"
+        android:layout_above="@id/editbox"
+        android:layout_marginBottom="0dp"
+        android:background="#BA0F5E44"
+
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/texto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/page1"
+        android:autoText="true"
+        android:background="#BA0F5E44"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textSize="30dp" />
+
+
+</RelativeLayout>
