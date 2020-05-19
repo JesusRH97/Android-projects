@@ -13,4 +13,4 @@ The second one, is a Checklist app where you can write down everything you will 
 
 Download and try them out!
 
-![prius] (https://robohub.org/wp-content/uploads/2017/06/prius_roundabout_exit.png)
+![prius](https://robohub.org/wp-content/uploads/2017/06/prius_roundabout_exit.png)
