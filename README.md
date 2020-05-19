@@ -12,3 +12,5 @@ The first one is a scientific calculator, with many tools and different options 
 The second one, is a Checklist app where you can write down everything you will need to remember later. Useful for doing the shopping or remembering birthdays for example
 
 Download and try them out!
+
+![prius] (https://robohub.org/wp-content/uploads/2017/06/prius_roundabout_exit.png)
