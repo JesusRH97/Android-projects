@@ -6,6 +6,8 @@ Android apps using Android Studio.
 
 The first one is a scientific calculator, with many tools and different options to use. Quite useful if you need to accomplish any operation on your Android device.
 
+![Calculadora científica](https://i.ytimg.com/vi/R7Q8tp3ut5Y/hqdefault.jpg)
+
 
 ## Check List
 
@@ -13,4 +15,4 @@ The second one, is a Checklist app where you can write down everything you will 
 
 Download and try them out!
 
-![prius](https://robohub.org/wp-content/uploads/2017/06/prius_roundabout_exit.png)
+
